@@ -1,1 +1,3 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+</code_scheme>

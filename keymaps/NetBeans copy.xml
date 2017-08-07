@@ -11,5 +11,8 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ShowContent" />
 </keymap>

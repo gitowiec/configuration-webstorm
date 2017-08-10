@@ -1,3 +1,4 @@
 <code_scheme name="Default">
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
 </code_scheme>

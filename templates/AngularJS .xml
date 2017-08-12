@@ -1,0 +1,7 @@
+<templateSet group="AngularJS ">
+  <template name="state" value="import IStateService = angular.ui.IStateService;" description="import IStateService = angular.ui.IStateService;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

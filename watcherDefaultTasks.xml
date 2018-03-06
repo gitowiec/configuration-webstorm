@@ -26,7 +26,7 @@
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="Less" />
       <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
@@ -40,7 +40,7 @@
       </option>
       <option name="outputFromStdout" value="true" />
       <option name="program" value="$USER_HOME$/workspace/invoice-backend-template/node_modules/less/bin/lessc" />
-      <option name="runOnExternalChanges" value="true" />
+      <option name="runOnExternalChanges" value="false" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />

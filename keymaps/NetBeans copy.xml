@@ -18,4 +18,5 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="ShowContent" />
+  <action id="ToggleFloatingMode" />
 </keymap>

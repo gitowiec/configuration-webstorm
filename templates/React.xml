@@ -5,4 +5,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="impmom" value="import * as moment from 'moment';" shortcut="SPACE" description="import moment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

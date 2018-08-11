@@ -2,6 +2,7 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ContextHelp" />
   <action id="EditSourceInNewWindow" />
   <action id="EmojiAndSymbols">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="e" />
@@ -18,5 +19,8 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="ToggleFloatingMode" />
 </keymap>

@@ -4,6 +4,7 @@
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <HTMLCodeStyleSettings>
+    <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>

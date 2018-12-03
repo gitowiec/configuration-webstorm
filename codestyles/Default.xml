@@ -7,10 +7,10 @@
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_PUBLIC_MODIFIER" value="true" />
@@ -27,6 +27,7 @@
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />

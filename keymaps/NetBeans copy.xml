@@ -4,6 +4,9 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ContextHelp" />
   <action id="EditSourceInNewWindow" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="EmojiAndSymbols">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="e" />
   </action>

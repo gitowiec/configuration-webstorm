@@ -7,6 +7,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
+      <mapping ext="bzl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
